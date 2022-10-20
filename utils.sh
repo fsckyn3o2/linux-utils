@@ -1,6 +1,6 @@
 #!/bin/bash
 
-compare_string_isensitive() {
+compare_string_insensitive() {
   echo "$1" | grep -qi "^$2$" && echo "Strings are equal" || echo "String are NOT equal"
 }
 
