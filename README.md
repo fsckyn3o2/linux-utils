@@ -23,20 +23,20 @@
 ### banner
 ### bluetooth
 
-- #### <span style='font-family:monospace'>bluetooth-restart</span>
+- #### bluetooth-restart
 
 ### develop
 
-- #### <span style='font-family:monospace'>clion_debug</span>
+- #### clion_debug
 
 ### ffmpeg
 
-- #### <span style='font-family:monospace'>ffmpeg_rotate_counterclock_90</span>
+- #### ffmpeg_rotate_counterclock_90
 
 ### mouse-xinput-config-elecom-huge
 
-- #### <span style='font-family:monospace'>mouse-xinput-configuration</span>
-- #### <span style='font-family:monospace'>mouse_reset_binding</span>
+- #### mouse-xinput-configuration
+- #### mouse_reset_binding
 
 ### pdf
 
@@ -46,30 +46,30 @@ Commands to transform pdf.
     - **Ubuntu** `pdf-utils`
     - **Archlinux** `pacman -Sy poppler pdftk ghostscript`
 
-- #### <span style='font-family:monospace'>pdf-compress</span>
-- #### <span style='font-family:monospace'>pdf-unit</span>
-- #### <span style='font-family:monospace'>pdf-rotate</span>
+- #### pdf-compress
+- #### pdf-unit
+- #### pdf-rotate
 
 ### podman
 
-- #### <span style='font-family:monospace'>podman-mongo</span>
-- #### <span style='font-family:monospace'>podman-mariadb</span>
-- #### <span style='font-family:monospace'>podman_postgres</span>
+- #### podman-mongo
+- #### podman-mariadb
+- #### podman_postgres
 
 ### qt
 
-- #### <span style='font-family:monospace'>qt-hdpi</span>
+- #### qt-hdpi
 
 ### source-me
 ### ssh
 
-- #### <span style='font-family:monospace'>ssh-extract-pubkey</span>
+- #### ssh-extract-pubkey
 
 ### utils
 
-- #### <span style='font-family:monospace'>compare_string_insensitive</span>
-- #### <span style='font-family:monospace'>firefox-profile</span>
+- #### compare_string_insensitive
+- #### firefox-profile
 
 ### xfce
 
-- #### <span style='font-family:monospace'>xcfe-conf-dpi</span>
+- #### xcfe-conf-dpi
