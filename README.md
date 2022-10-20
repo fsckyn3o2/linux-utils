@@ -1,9 +1,3 @@
-<style>
-h3, h4 {
-    font-family: monospace;
-}
-</style>
-
 # <span style='font-family:monospace'>Devel::Scripts</span>
 
 ## List of commands
