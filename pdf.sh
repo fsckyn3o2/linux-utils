@@ -24,6 +24,6 @@ pdf-compress() {
 }
 
 alias pdf-rotate="sh /srv/Applications/my_scripts/pdf_operation/pdf-rotate.sh"
-alias pdfunite="pdfunite"
+alias pdf-unite="pdfunite"
 alias pdftk="pdftk"
 

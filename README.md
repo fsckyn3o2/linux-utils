@@ -1,24 +1,81 @@
-# _Devel_::Scripts
+<style>
+h3, h4 {
+    font-family: monospace;
+}
+</style>
+
+# <span style='font-family:monospace'>Devel::Scripts</span>
 
 ## List of commands
 
-| Category | Porpuse  | Command | Description |
-| :------- | :------- | :------ | :---------- |
-| Workday  | PDF      | pdf-compress | to compress a pdf |
-| Development  | Switch tool version      | switch-java | to switch java version |
-|  |      | switch-maven | to switch maven version |
-| Utils  | Prompt      | banner | banner theme |
+| Script file                     | Subject                |
+|:--------------------------------|:-----------------------|
+| banner                          | ascii art              |
+| bluetooth                       | wireless device        |
+| develop                         | commands for developer |
+| ffmpeg                          | video render           |
+| mouse-xinput-config-elecom-huge | mouse xbind/xinput     |
+| pdf                             | pdf transform          |
+| podman                          | container tool         |
+| qt                              | display program        |
+| source-me                       | utils                  |
+| ssh                             | crypto & certificate   |
+| utils                           | utils                  |
+| xfce                            | window manager         |
 
 
 ## Usage
 
-### PDF
+### banner
+### bluetooth
 
-PDF commands use package `pdf-utils`.
-Archlinux package : `pacman -Sy`
+- #### bluetooth-restart
 
-#### pdf-compress
+### develop
 
-#### pdf-unit
+- #### clion_debug
 
+### ffmpeg
 
+- #### ffmpeg_rotate_counterclock_90
+
+### mouse-xinput-config-elecom-huge
+
+- #### mouse-xinput-configuration
+- #### mouse_reset_binding
+
+### pdf
+
+Commands to transform pdf.
+
+- Use packages :
+    - **Ubuntu** `pdf-utils`
+    - **Archlinux** `pacman -Sy poppler pdftk ghostscript`
+
+- #### pdf-compress
+- #### pdf-unit
+- #### pdf-rotate
+
+### podman
+
+- #### podman-mongo
+- #### podman-mariadb
+- #### podman_postgres
+
+### qt
+
+- #### qt-hdpi
+
+### source-me
+### ssh
+
+- #### ssh-extract-pubkey
+
+### utils
+
+- #### compare_string_isensitive
+- #### firefox-profile
+
+### xfce
+
+- #### xcfe-conf-dpi
