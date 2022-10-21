@@ -1,4 +1,5 @@
 #!/bin/bash
+export scriptsRegister+=("mouse-xinput-config-elecom-huge")
 
 # ELECOM HUGE configuration example
 # Map button 9 (top side button) to button 2 (middle button)

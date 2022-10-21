@@ -1,5 +1,5 @@
 #!/bin/bash
-
+export scriptsRegister+=("xfce")
 
 xcfe-conf-dpi() {
   case "$1" in

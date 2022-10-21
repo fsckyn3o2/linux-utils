@@ -1,4 +1,5 @@
 #!/bin/bash
+export scriptsRegister+=("pdf")
 
 pdf-rotate() {
   degree="1-endeast"

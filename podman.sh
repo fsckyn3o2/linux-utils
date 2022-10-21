@@ -1,4 +1,5 @@
 #!/bin/bash
+export scriptsRegister+=("podman")
 
 podman-mongo() {
   podman run --name local-mongo -p 127.0.0.1:27017:27017 --net=host -d mongo

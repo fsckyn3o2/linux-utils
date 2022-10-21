@@ -1,4 +1,5 @@
 #!/bin/bash
+export scriptsRegister+=("qt")
 
 export QT_AUTO_SCREEN_SET_FACTOR=0
 export QT_SCALE_FACTOR=1.4

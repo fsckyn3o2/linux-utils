@@ -1,4 +1,5 @@
 #!/bin/bash
+export scriptsRegister+=("bluetooth")
 
 bluetooth-restart() {
   echo "kill bluetoothd"
